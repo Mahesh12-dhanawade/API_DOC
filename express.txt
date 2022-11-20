@@ -1,0 +1,21 @@
+> nodejs framework
+> help us to add more functionality to our application
+> help for routing
+> faster developement
+> cors --> cross origin resource sharing--> It is used to connect port in frontend and backend
+It don't allow any other ports to allow in application.
+
+params : 
+> what you pass after / 
+> It is compulsory to define in route.
+> used to pass 1 or 2 values
+
+queryparam : 
+> what you pass after ? 
+> No need to define
+> used to pass multiple values  
+
+
+
+
+
