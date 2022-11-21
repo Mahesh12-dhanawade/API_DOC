@@ -1,12 +1,1 @@
-::1 - GET / HTTP/1.1 404 139 - 11.485 ms
-::1 - GET /orders HTTP/1.1 304 - - 274.842 ms
-::1 - GET /orders?email=mahesh@gmail.com HTTP/1.1 304 - - 250.894 ms
-::1 - GET /favicon.ico HTTP/1.1 404 150 - 2.474 ms
-::1 - GET /images/icons/gear.png HTTP/1.1 404 160 - 1.211 ms
-::1 - DELETE /deleteOrder/6378c6834f42d59d209419b5 HTTP/1.1 200 13 - 96.512 ms
-::1 - GET /orders?email=mahesh@gmail.com HTTP/1.1 200 2 - 97.112 ms
-::1 - GET /images/icons/gear.png HTTP/1.1 404 160 - 1.035 ms
-::1 - GET /images/icons/gear.png HTTP/1.1 404 160 - 1.140 ms
-::1 - GET /orders/email=%22mahesh@gmail.com%22 HTTP/1.1 404 174 - 1.319 ms
-::1 - GET /orders/ HTTP/1.1 200 741 - 88.362 ms
-::1 - GET /images/icons/gear.png HTTP/1.1 404 160 - 1.398 ms
+::1 - GET /orders HTTP/1.1 200 741 - 92.275 ms
